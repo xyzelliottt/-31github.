@@ -1,0 +1,190 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #283136;
+    line-height: 1.3;
+    background-color: #fff;
+    margin: 0;
+}
+
+.container {
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.header {
+    text-align: center;
+    background-color: #eee;
+    padding-top: 10px;
+}
+
+.logo {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.main-nav {
+    background-color: #494e55;
+    padding: 20px 0;
+}
+
+.main-nav a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin: 0 30px;
+}
+
+.main-block {
+    background-color: #eee;
+    margin-bottom: 60px;
+}
+
+.main-block-container {
+    background-image: url(../images/main-pic.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    padding: 70px 50% 180px 0;
+}
+
+.main-block h1 {
+    font-size: 55px;
+    color: black;
+    font-weight: normal;
+}
+
+.btn-more {
+    display: inline-block;
+    background-color: darkgray;
+    padding: 15px 40px;
+    color: blue;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-radius: 8px;
+}
+
+.cards {
+    background-color: white;
+    font-size: 0;
+    margin-bottom: 100px;
+}
+
+.card {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    padding: 100px 40px 0;
+    display: inline-block;
+    width: 33.3333%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.cards h3 {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.cards p {
+    font-size: 16px;
+    color: #283136;
+    margin-bottom: 40px;
+}
+
+.iPad {
+    background-image: url(../images/ic-1.png);
+    background-repeat: no-repeat;
+}
+
+.iPhone {
+    background-image: url(../images/ic-2.png);
+    background-repeat: no-repeat;
+}
+
+.Mac {
+    background-image: url(../images/ic-3.png);
+    background-repeat: no-repeat;
+}
+
+.card-link {
+    font-size: 16px;
+    color: white;
+    padding: 16px 40px;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+
+.btn-iPad {
+     background-color: #efc75e;
+}
+
+.btn-iPhone {
+    background-color: #52b1b1;
+}
+
+.btn-Mac {
+    background-color: #f0dc6a;
+} 
+
+.keyboard-block {
+    background-color: #fff;
+    margin-bottom: 26px;
+}
+
+.keyboard-block-container {
+    background-image: url(../images/keyboard_pic.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding: 20px 36% 20px 0;
+    box-sizing: border-box;
+}
+
+.keyboard-block h2 {
+    font-size: 45px;
+    color: #000;
+    font-weight: normal;
+}
+
+.keyboard-block p {
+    font-size: 16px;
+    color: #283136;
+    line-height: 24px;
+    margin-bottom: 36px;
+}
+
+.keyboard-block h4 {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+}
+
+.keyboard-block ul {
+    padding-left: 20px;
+}
+
+.keyboard-block li {
+    padding-bottom: 18px;
+}
+
+.footer {
+    background-color: #eee;
+    color: #000;
+    padding: 20px 0px;
+    background-position: top right;
+    text-align: right;
+}
+
+.footer h4 {
+    font-size: 36px;
+    margin: 0;
+}
+
+.footer p {
+    font-size: 16px;
+}
